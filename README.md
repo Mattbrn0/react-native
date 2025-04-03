@@ -7,3 +7,5 @@ TimeFit est une application conçue pour les passionnés de musculation qui souh
 - **Création de séances chronométrées** avec des temps de repos ajustables.  
 - **Suivi des performances** avec des statistiques d'entraînement.  
 - **Interface intuitive et fluide** pour une utilisation rapide en salle de sport. 
+
+![Aperçu de TimeFit](assets/videos/video.gif)
